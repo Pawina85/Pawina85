@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pawina85/Pawina85/main/avatar2(1).png" width="120" style="border-radius: 100%;" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Pawina85/Pawina85/main/avatar2(1).png" width="120" style="border-radius: 50%;" />
+</p>
 </p>
 
 <h1 align="center">Hi, I'm Pawina — Frontend Developer</h1>
