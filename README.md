@@ -1,6 +1,6 @@
 <p align="center">
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Pawina85/Pawina85/main/avatar2(1).png" width="120" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Pawina85/Pawina85/main/avataraom.png" width="120" style="border-radius: 50%;" />
 </p>
 </p>
 
